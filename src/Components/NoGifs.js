@@ -2,7 +2,7 @@ import React from 'react';
 
 const NoGifs = props => (
   <li className='no-gifs'>
-    <i className="material-icons icon-gif">sentiment_very_dissatisfied</i>
+    <img src="./images/sad.svg" className="sad-icon"></img>
     <h3>Sorry, no GIFs match your search.</h3>
   </li>
 );
