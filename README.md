@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). :heart:
 
+<p align="center">
+<img align="center" src="api_giphy_header.gif" width="90%" alt="API Giphy logo"/>
+</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
