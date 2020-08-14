@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). :heart:
 
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/3oEjI0Jort6dqkW7Ty/giphy.gif" width="80%" alt="API Giphy logo"/>
+<img align="center" src="https://media.giphy.com/media/3xz2BDFvxop2BfAQoM/giphy.gif" width="80%" alt="API Giphy logo"/>
 </p>
 
 ## Available Scripts
