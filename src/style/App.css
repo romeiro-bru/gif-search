@@ -70,8 +70,12 @@ button {
   display: block;
 }
 
+.sad-icon {
+  width: 6rem;
+}
+
 .no-gifs  {
-  color: #7bcbc4;
+  color: #44bfe3;
   height: 140px;
   padding-top: 62px;
   text-align: center;
