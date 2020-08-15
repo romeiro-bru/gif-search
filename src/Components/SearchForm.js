@@ -24,7 +24,7 @@ export default class SearchForm extends Component {
                onChange={this.onSearchChange}
                name="search" 
                placeholder="Search..." />
-        <button type="submit" id="submit" className="search-button"><i className="material-icons icn-search">search</i></button>
+        <button type="submit" id="submit" className="search-button"><img src="./images/search.svg" className="search-icon"></img></button>
       </form>      
     );
   }
