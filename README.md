@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 </p>
 
 ## Features :deciduous_tree:
-* Busque por um gif :nerd_face:
+* Search for a gif :nerd_face:
 
 ## Technologies :octocat:
 * JavaScript :sparkles:
